@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{759CA4E9-8AA9-4834-8790-4FFC14789C6E}|Practica DIP\\Practica DIP.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\c# .net intermedio\\practica_dip\\practica dip\\practica dip\\classes\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759CA4E9-8AA9-4834-8790-4FFC14789C6E}|Practica DIP\\Practica DIP.csproj|solutionrelative:practica dip\\classes\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759CA4E9-8AA9-4834-8790-4FFC14789C6E}|Practica DIP\\Practica DIP.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\c# .net intermedio\\practica_dip\\practica dip\\practica dip\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759CA4E9-8AA9-4834-8790-4FFC14789C6E}|Practica DIP\\Practica DIP.csproj|solutionrelative:practica dip\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759CA4E9-8AA9-4834-8790-4FFC14789C6E}|Practica DIP\\Practica DIP.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\c# .net intermedio\\practica_dip\\practica dip\\practica dip\\classes\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759CA4E9-8AA9-4834-8790-4FFC14789C6E}|Practica DIP\\Practica DIP.csproj|solutionrelative:practica dip\\classes\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\Practica DIP\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Practica DIP\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\Practica DIP\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Practica DIP\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:00:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\Practica DIP\\Classes\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Practica DIP\\Classes\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\Practica DIP\\Classes\\CustomerRepository.cs",
+              "RelativeToolTip": "Practica DIP\\Classes\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:58:15.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\Practica DIP\\Classes\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Practica DIP\\Classes\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\C# .NET Intermedio\\Practica_DIP\\Practica DIP\\Practica DIP\\Classes\\CustomerService.cs",
+              "RelativeToolTip": "Practica DIP\\Classes\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:57:59.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
